@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="itsch.edu.congresoitsch.MainActivity">
+    <item
+        android:id="@+id/action_asis"
+        android:orderInCategory="100"
+        android:title="@string/action_asist"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_test"
+        android:orderInCategory="100"
+        android:title="@string/string_test"
+        app:showAsAction="never" />
+</menu>
